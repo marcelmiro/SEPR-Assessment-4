@@ -1,0 +1,46 @@
+{
+  
+  "0": {
+    "title": "",
+    "content": "404 . Page not found :( . The requested page could not be found. .",
+    "url": "http://localhost:4000/404.html",
+    "relUrl": "/404.html"
+  }
+  ,"1": {
+    "title": "About",
+    "content": "About Us! . . General . We are a group of students attending the University of York attending (some form of) Computer Science! This is our GitHub pages for the SEPR module where we have to create a game where aliens invade York! . Members: . . Lucy Ivatt: . Course: . Email: . Likes: . . Jordan Spooner: . Course: . Email: . Likes: .",
+    "url": "http://localhost:4000/about/",
+    "relUrl": "/about/"
+  }
+  ,"2": {
+    "title": "Assessments",
+    "content": "Assessments . . Assessment 1 | Assessment 2 | Assessment 3 | Assessment 4 | . Assessment 1 . Zip File: FILE HERE | Website: Source Code | . . Assessment 2 . . Assessment 3 . . Assessment 4 .",
+    "url": "http://localhost:4000/assessments/",
+    "relUrl": "/assessments/"
+  }
+  ,"3": {
+    "title": "Download",
+    "content": "Download our game: .",
+    "url": "http://localhost:4000/download/",
+    "relUrl": "/download/"
+  }
+  ,"4": {
+    "title": "Home",
+    "content": "NullPointer Studios .",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  }
+  ,"5": {
+    "title": "UML Diagrams",
+    "content": "Test .",
+    "url": "http://localhost:4000/uml.html",
+    "relUrl": "/uml.html"
+  }
+  ,"6": {
+    "title": "Updates",
+    "content": "Updates: .",
+    "url": "http://localhost:4000/updates/",
+    "relUrl": "/updates/"
+  }
+  
+}
