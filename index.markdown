@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Home page for SEPR group, Null Point Studios"
+description: "Home page for SEPR group, Farm Jab Studios"
 permalink: /
 ---
 # Hello! 
@@ -17,3 +17,6 @@ This is our SEPR group, named Null Pointer Studios, GitHub pages. This is where 
 
 ### [Assessment 3](https://npstudios.github.io/assessments/#assessment-3)
 > Here you can find all of our documentation for assessment 3 for this module. 
+
+### [Assessment 4](https://npstudios.github.io/assessments/#assessment-4)
+> Here you can find all of our documentation for assessment 4 for this module. 
