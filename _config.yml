@@ -18,8 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SEPR Project 
-email: marcelmiro1@hotmail.com
+title: SEPR Project
 description: >- # this means to ignore newlines until "baseurl:"
   This is out SEPR Project for the University of York Computer Science Year 2. 
 baseurl: "/" # the subpath of your site, e.g. /blog
