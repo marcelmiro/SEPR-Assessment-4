@@ -96,14 +96,14 @@ nav_order: 3
 ---
 ## Assessment 4
 
-> * Zip File (Link to Google Drive - too big for upload): [ZIP](/files/Assessment4/ASSESSMENT%20FOUR%20SEPR.zip)
-> * JAR of Kroy Game: [JAR](/files/Assessment4/Kroy4.jar)
-> * Project Review Report: [Review4](/files/Assessment4/Review4.pdf)
-> * Implementation Report: [Impl4](/files/Assessment4/Impl4.pdf)
+> * Zip File (Link to Google Drive - too big for upload): [ZIP](files/Assessment4/ASSESSMENT%20FOUR%20SEPR.zip)
+> * JAR of Kroy Game: [JAR](files/Assessment4/Kroy4.jar)
+> * Project Review Report: [Review4](files/Assessment4/Review4.pdf)
+> * Implementation Report: [Impl4](files/Assessment4/Impl4.pdf)
 > * Evaluation and Testing:
-> > * Report: [PDF](/files/Assessment4/ET4.pdf)
-> > * Current test design and documentation: [PDF](/files/Assessment4/testing/Current%20test%20design%20and%20documentation.pdf)
+> > * Report: [PDF](files/Assessment4/ET4.pdf)
+> > * Current test design and documentation: [PDF](files/Assessment4/testing/Current%20test%20design%20and%20documentation.pdf)
 > > * Current user testing evidence: [PDF](files/Assessment4/testing/Current%20User%20Testing%20Evidence.pdf)
-> > * Part 4 requirements: [PDF](/files/Assessment4/testing/Part%204%20Requirements.pdf)
-> > * Traceability matrix: [XLSX](/files/Assessment4/testing/Traceability%20Matrix.xlsx)
-> > * Unit testing analysis: [PDF](/files/Assessment4/testing/Unit%20Testing%20Analysis.pdf)
+> > * Part 4 requirements: [PDF](files/Assessment4/testing/Part%204%20Requirements.pdf)
+> > * Traceability matrix: [XLSX](files/Assessment4/testing/Traceability%20Matrix.xlsx)
+> > * Unit testing analysis: [PDF](files/Assessment4/testing/Unit%20Testing%20Analysis.pdf)
