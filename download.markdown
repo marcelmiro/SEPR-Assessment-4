@@ -21,6 +21,6 @@ nav_order: 4
 
 ### Download our game from Assessment 4:
 > Final version of the game 🎮
-> * [Executable JAR file]()
+> * [Executable JAR file](/files/Assessment4/desktop-1.0.jar)
 > * User Manual: 
 > > * [PDF]()
