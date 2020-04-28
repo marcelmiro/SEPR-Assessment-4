@@ -96,5 +96,8 @@ nav_order: 3
 ---
 ## Assessment 4
 
-> * Zip File (Link to Google Drive - too big for upload): [ZIP]()
-> * JAR of Kroy Game: [JAR](/files/Assessment4/desktop-1.0.jar)
+> * Zip File (Link to Google Drive - too big for upload): [ZIP](/files/Assessment4/ASSESSMENT%20FOUR%20SEPR.zip)
+> * JAR of Kroy Game: [JAR](/files/Assessment4/Kroy4.jar)
+> * Project Review Report: [Review4](/files/Assessment4/Review4.pdf)
+> * Implementation Report: [Impl4](/files/Assessment4/Impl4.pdf)
+> * Evaluation and Testing report: [ET4](/files/Assessment4/ET4.pdf)
