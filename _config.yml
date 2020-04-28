@@ -20,7 +20,8 @@
 
 title: SEPR Project
 color_scheme: "light"
-baseurl: "/SEPR-Assessment-4" # the subpath of your site, e.g. /blog
+#baseurl: "/SEPR-Assessment-4" # the subpath of your site, e.g. /blog
+url: "https://marcelmiro.github.io/SEPR-Assessment-4/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
