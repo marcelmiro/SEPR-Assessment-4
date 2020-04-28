@@ -20,7 +20,7 @@
 
 title: SEPR Project
 color_scheme: "light"
-#baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/SEPR-Assessment-4" # the subpath of your site, e.g. /blog
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
