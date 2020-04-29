@@ -20,7 +20,6 @@
 
 title: SEPR Project
 color_scheme: "light"
-baseurl: "/SEPR-Assessment-4"
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
